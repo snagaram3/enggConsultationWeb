@@ -1,0 +1,1 @@
+import React from 'react'; export default function App() { return (<div className='p-8 text-center'><h1 className='text-4xl font-bold mb-4'>Airavta Services</h1><p className='mb-8'>Your trusted consulting partner.</p><footer className='mt-12'><a href='https://www.linkedin.com/company/airavta-services/' className='text-blue-600'>LinkedIn</a></footer></div>); }
